@@ -1,4 +1,4 @@
 // sum.h
-// #pragma once
-//
-// int sum(int n);
+#pragma once
+
+int sum(int n);
